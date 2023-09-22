@@ -21,11 +21,14 @@
 title: Sydtactic Sugar
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey there - I'm Sydney. I'm a front-end web developer and accessibility enthusiast. Welcome to my portfolio!
+  Hey there - I'm Sydney. I'm a front-end web developer and accessibility enthusiast. Welcome to my blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sydtacticsugar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sydtacticsugar
-github_username:  sydtacticsugar
+github_username: sydtacticsugar
+
+
+permalink: /:collection/:year-:month-:day-:title:output_ext
 
 # Build settings
 theme: minima
