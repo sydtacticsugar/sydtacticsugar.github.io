@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sydtactic Sugar
+title: Syd's Web Log
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there - I'm Sydney. I'm a front-end web developer and accessibility enthusiast. Welcome to my blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sydtacticsugar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sydtacticsugar
+linkedin_username: syd-syd
 github_username: sydtacticsugar
-
+author: <3 sydney
 
 permalink: /:collection/:year-:month-:day-:title:output_ext
 
